@@ -1,4 +1,5 @@
 {
     "domain": "dev-ynprrgxb.auth0.com",
-    "clientId": "YSLK6NzTJT0k0LODMDWX3TqX1pY64k4z"
+    "clientId": "YSLK6NzTJT0k0LODMDWX3TqX1pY64k4z",
+    "audience": "https://api.authy.com"
   }
